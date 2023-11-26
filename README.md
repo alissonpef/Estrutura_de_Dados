@@ -26,6 +26,7 @@ Bem-vindo ao repositório de Estrutura de Dados em C++! Aqui, exploraremos conce
 
 - **Representação de Problemas com Grafos:** Utilização de grafos para modelar e resolver uma variedade de problemas.
 
+## Contribuições
 <div>
   <strong>Este repositório é um espaço para exploração, aprendizado e colaboração. Sinta-se à vontade para explorar os materiais disponíveis e contribuir para o enriquecimento coletivo do conhecimento em Estrutura de Dados em C++. Boa jornada de aprendizado!<strong>
 <div>
