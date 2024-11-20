@@ -1,4 +1,4 @@
-# Estrutura de Dados - Prof. Artín Vigil  
+# Estrutura de Dados - Prof. Martín Vigil  
 **Curso de Estrutura de Dados**  
 
 ## 📚 Ementa  
