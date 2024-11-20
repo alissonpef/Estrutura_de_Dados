@@ -1,8 +1,0 @@
-[
-{
-  "directory": "C:/TrabalhoT2/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\TrabalhoT2\\main.cpp",
-  "file": "C:\\TrabalhoT2\\main.cpp",
-  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
-}
-]
