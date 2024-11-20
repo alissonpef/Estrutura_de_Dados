@@ -42,7 +42,7 @@ Este repositório contém materiais relacionados à disciplina de **Estrutura de
   - Implementar estruturas de dados e algoritmos de ordenação e pesquisa utilizando a linguagem **C++**.
 
 ## 📂 Estrutura do Repositório  
-- **/Exemplos**: Exemplos práticos de código em C++ para implementar e manipular as estruturas de dados estudadas.  
+- **/Projetos**: Exemplos práticos de código em C++ para implementar e manipular as estruturas de dados estudadas.  
 
 ## 🛠️ Ferramentas Recomendadas  
 - **IDE para Programação em C++:** Visual Studio.
