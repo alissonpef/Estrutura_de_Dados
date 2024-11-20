@@ -1,5 +1,5 @@
-# Estrutura de Dados - Prof. Martín Vigil  
-**Curso de Estrutura de Dados**  
+# Estrutura de Dados - C++
+Professor: Martín Vigil  
 
 ## 📚 Ementa  
 Este repositório contém materiais relacionados à disciplina de **Estrutura de Dados**, abordando desde conceitos básicos de notação assintótica até estruturas de dados avançadas, como árvores binárias, tabelas de espalhamento e grafos. O curso enfoca o uso de diferentes técnicas para manipulação, análise e implementação dessas estruturas, além de aplicação de métodos de ordenação e pesquisa.
