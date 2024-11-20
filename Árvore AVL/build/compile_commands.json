@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Trabalho_ArvoreT3/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -std=gnu++17 -o CMakeFiles\\main.dir\\main.cpp.obj -c C:\\Trabalho_ArvoreT3\\main.cpp",
+  "file": "C:\\Trabalho_ArvoreT3\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\main.cpp.obj"
+}
+]
