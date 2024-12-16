@@ -1,55 +1,93 @@
-# Estrutura de Dados - C++
-Professor: Martín Vigil  
+# Linguagens de Descrição de Hardware I - Microprocessadores e Microcontroladores
 
-## 📚 Ementa  
-Este repositório contém materiais relacionados à disciplina de **Estrutura de Dados**, abordando desde conceitos básicos de notação assintótica até estruturas de dados avançadas, como árvores binárias, tabelas de espalhamento e grafos. O curso enfoca o uso de diferentes técnicas para manipulação, análise e implementação dessas estruturas, além de aplicação de métodos de ordenação e pesquisa.
+**Professor:** Rodrigo Pereira
+
+## 📚 Ementa
+
+Este repositório contém materiais, exercícios e projetos práticos relacionados à disciplina de **Linguagens de Descrição de Hardware I**, com foco no estudo e aplicação de **microprocessadores** e **microcontroladores**, incluindo sua arquitetura, programação em linguagem Assembly e integração com periféricos.
 
 ### Conteúdo abordado:
-1. **Notação Assintótica**  
-   - Análise de algoritmos utilizando notação Big-O, Omega e Theta.  
-2. **Recorrências**  
-   - Técnicas para resolver recorrências e determinar a complexidade de algoritmos recursivos.  
-3. **Técnicas de Análise de Algoritmos**  
-   - Métodos para avaliar a eficiência de algoritmos e sua implementação.  
-4. **Listas Lineares e Generalizações**  
-   - Listas ordenadas, listas encadeadas, pilhas e filas.  
-5. **Aplicações de Listas**  
-   - Casos práticos e aplicações de listas em resolução de problemas computacionais.  
-6. **Algoritmos de Inserção, Remoção e Consulta**  
-   - Implementação de operações básicas de listas, como inserção, remoção e consulta de elementos.  
-7. **Tabelas de Espalhamento (Hash Tables)**  
-   - Implementação e aplicação de tabelas de espalhamento para otimização de busca.  
-8. **Árvores Binárias**  
-   - Estudo e implementação de árvores binárias, árvores binárias de pesquisa, e suas aplicações.  
-9. **Métodos de Pesquisa e Ordenação**  
-   - Algoritmos de pesquisa (binária, por exemplo) e de ordenação (QuickSort, MergeSort, etc.).  
-10. **Técnicas Iterativas e Recursivas de Implementação**  
-    - Como implementar estruturas de dados de forma iterativa e recursiva.  
-11. **Grafos e Grafos Orientados**  
-    - Representação de grafos e grafos orientados, e suas aplicações em problemas de redes, caminhos e ciclos.  
-12. **Representação de Problemas com Grafos**  
-    - Modelagem de problemas computacionais utilizando grafos, como problemas de caminhos mínimos e fluxo máximo.
 
-## 🎯 Objetivos da Disciplina  
-- **Objetivo Geral:**  
-  - Abordar formalmente as estruturas de dados e as técnicas de manipulação dessas estruturas, além de analisar métodos de pesquisa, ordenação e representação de dados, aplicando a estrutura de dados mais adequada para cada sistema computacional.  
+1. **Introdução Histórica aos Microprocessadores**  
+   - Evolução histórica dos microprocessadores e sua importância no desenvolvimento da computação.  
+2. **Estrutura Básica de um Microprocessador**  
+   - Componentes e unidades funcionais internas de um microprocessador.  
+3. **Microprocessadores Comercialmente Disponíveis**  
+   - Modelos de microprocessadores comuns no mercado.  
+4. **Memórias e Controladores**  
+   - Tipos de memória e controladores usados em microprocessadores e microcontroladores.  
+5. **Microcontroladores**  
+   - Arquiteturas típicas de microcontroladores e seus registradores.  
+6. **Arquiteturas CISC e RISC**  
+   - Comparação das arquiteturas CISC e RISC em microprocessadores e microcontroladores.  
+7. **Exemplos de Microcontroladores Comerciais**  
+   - Estudo de exemplos populares de microcontroladores, como PIC, AVR, ARM.  
+8. **Instruções e Programação em Assembly**  
+   - Programação em linguagem Assembly para microprocessadores e microcontroladores.  
+9. **Mapas de Memória e Portas de Entrada/Saída**  
+   - Estrutura de mapeamento de memória e gerenciamento de portas de I/O.  
+10. **Módulo Temporizador e Contadores**  
+    - Funcionamento e uso de temporizadores e contadores.  
+11. **Interrupções e Conversão Analógico-Digital (ADC)**  
+    - Gerenciamento de interrupções e processos de conversão analógico-digital.  
+12. **Acesso à Memória e Barramentos Padrões**  
+    - Técnicas de acesso à memória e uso de barramentos padrões (ex: I2C, SPI).  
+13. **Dispositivos Periféricos e Ferramentas de Programação**  
+    - Interfaceamento com periféricos e ferramentas para simulação, depuração e desenvolvimento de sistemas embarcados.  
+14. **Aplicações de Microprocessadores e Microcontroladores**  
+    - Desenvolvimento de sistemas práticos utilizando microprocessadores e microcontroladores.
+
+## 🎯 Objetivos da Disciplina
+
+- **Objetivo Geral:** Explorar a arquitetura de **microprocessadores** e **microcontroladores**, suas unidades funcionais internas, interfaceamento com periféricos e programação.  
 - **Objetivos Específicos:**  
-  - Identificar limites de crescimento de funções (notação assintótica).  
-  - Aplicar técnicas de análise de complexidade de algoritmos.  
-  - Estudar e implementar técnicas de estruturação de dados, com ênfase em listas, árvores, e grafos.  
-  - Analisar e conhecer os principais algoritmos de ordenação de dados, como QuickSort, MergeSort e outros.  
-  - Estudar e implementar técnicas de busca de dados eficientes, como busca binária.  
-  - Implementar estruturas de dados e algoritmos de ordenação e pesquisa utilizando a linguagem **C++**.
+  - Compreender a arquitetura interna de microprocessadores e microcontroladores.  
+  - Estudar modelos e diferenças entre famílias de microprocessadores e microcontroladores.  
+  - Desenvolver sistemas embarcados utilizando microcontroladores.  
+  - Trabalhar com periféricos de entrada e saída, como sensores e atuadores.  
+  - Utilizar ferramentas de desenvolvimento e simulação para sistemas embarcados.  
+  - Desenvolver projetos completos de sistemas embarcados, incluindo programação e integração com periféricos.
 
-## 📂 Estrutura do Repositório  
-- **/Projetos**: Exemplos práticos de código em C++ para implementar e manipular as estruturas de dados estudadas.  
+## 💂️ Estrutura do Repositório
 
-## 🛠️ Ferramentas Recomendadas  
-- **IDE para Programação em C++:** Visual Studio.
-- **Compilador:** GCC, MinGW para compilação de código C++.
+- **/Codigo_em_Assembly**: Contém códigos desenvolvidos em Assembly.
+- **/Codigo_em_C**: Inclui códigos desenvolvidos em linguagem C.
+- **/Projeto_de_Sistema_de_Monitoramento_Residencial**: Projeto prático de um sistema de monitoramento residencial.
 
-## 📫 Contato  
-Dúvidas? Entre em comigo por e-mail:  
-- **Alisson Pereira Ferreira:** [email](mailto:alissonpef@gmail.com)
+## 🛠️ Ferramentas Recomendadas
+
+- **IDE para Microcontroladores:** MPLAB X e MikroC.
+- **Simuladores:** Proteus.
+- **Linguagem de Programação:** Assembly, C para microcontroladores.
+
+## 🔧 Como Utilizar
+
+1. **Clonar o Repositório:**
+
+   ```bash
+   git clone https://github.com/alissonpef/Microprocessadores_e_Microcontroladores.git
+   ```
+
+2. **Navegar pelos Diretórios:** Explore os diretórios para encontrar os materiais de estudo, projetos e exercícios desejados.
+
+3. **Abrir e Editar os Códigos:** Utilize uma IDE compatível com a linguagem de programação utilizada no projeto. Por exemplo:
+
+   - Para códigos em Assembly: [MPLAB X](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide)
+   - Para códigos em C: [MPLAB X](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide) ou [MikroC](https://www.mikroe.com/mikroc)
+
+4. **Compilar e Executar os Códigos:** Utilize as ferramentas de compilação e simulação fornecidas pelas IDEs mencionadas. Por exemplo, no MPLAB X:
+
+   - **Compilar:** Utilize o botão de compilação ou o menu correspondente para compilar o código.
+   - **Simular:** Utilize o simulador integrado para testar o código sem a necessidade de hardware físico.
+   - **Gravar no Microcontrolador:** Caso possua o hardware adequado, utilize um programador compatível para gravar o código no microcontrolador.
+
+5. **Simular Projetos no Proteus:** Para projetos que incluem simulações de hardware, utilize o [Proteus](https://www.labcenter.com/) para abrir os arquivos de simulação e testar o funcionamento do circuito juntamente com o código desenvolvido.
+
+## 📢 Contato
+
+Dúvidas? Entre em contato comigo por e-mail:
+
+- **Alisson Pereira Ferreira:** [alissonpef@gmail.com](mailto:alissonpef@gmail.com)
 
 Aproveite o aprendizado! 🚀
+
