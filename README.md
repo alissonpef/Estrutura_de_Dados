@@ -48,9 +48,8 @@ Este repositório contém materiais relacionados à disciplina de **Estrutura de
 ## 💂️ Estrutura do Repositório
 
 - **/Listas_Encadeadas**: Códigos relacionados à implementação de listas encadeadas.
-- **/Arvores**: Exemplos e implementações de árvores binárias e outras estruturas baseadas em árvores.
+- **/Arvores**: Implementações de árvores binárias e outras estruturas baseadas em árvores.
 - **/Grafos**: Códigos sobre algoritmos de grafos, como busca em profundidade e em largura.
-- **/Projetos**: Projetos práticos integrando várias estruturas de dados estudadas.
 
 ## 🛠️ Ferramentas Recomendadas
 
